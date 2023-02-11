@@ -14,3 +14,7 @@ int sum = 0;
 // Method
 // To add two numbers
 public int addTwoInt(int a, int b)
+#THIS IS THE CODE ADDED BY DEVELOPER 2 IN JANUARY2023
+int myMethod(int x)
+float myMethod(float x)
+double myMethod(double x, double y)
