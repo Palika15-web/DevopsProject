@@ -27,3 +27,8 @@ public class Main {
 }
 
 ADDING CODE now to see merge conflicts
+=======
+#THIS IS THE CODE ADDED BY DEVELOPER 2 IN JANUARY2023
+int myMethod(int x)
+float myMethod(float x)
+double myMethod(double x, double y)
