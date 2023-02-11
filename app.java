@@ -25,3 +25,5 @@ public class Main {
     myMethod();
   }
 }
+
+ADDING CODE now to see merge conflicts
