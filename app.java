@@ -11,9 +11,23 @@ class Addition {
 // as we have not started computation
 int sum = 0;
 
+#THIS CODE IS ADDED BY DEVELOPER 1 IN FEB 2023
 // Method
 // To add two numbers
 public int addTwoInt(int a, int b)
+
+public class Main {
+  static void myMethod() {
+    System.out.println("I just got executed!");
+  }
+
+  public static void main(String[] args) {
+    myMethod();
+  }
+}
+
+ADDING CODE now to see merge conflicts
+=======
 #THIS IS THE CODE ADDED BY DEVELOPER 2 IN JANUARY2023
 int myMethod(int x)
 float myMethod(float x)
